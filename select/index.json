@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "0",
   "base_artist": "Ado",
-  "createdAt": "2025-12-25T17:24:30.990630Z",
+  "createdAt": "2026-03-18T21:11:04.335261Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,286 @@
       "artist": "Ado",
       "has_synced": false,
       "path": "select/pl_01_0_Ado.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_0_Ado.lrc",
+      "repo_name": "x1UsJ2Znjk0"
+    },
+    {
+      "id": "localdb_dynamic_1",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "x1UsJ2Znjk0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_02_0_Ado.lrc",
+      "repo_name": "0tmJOrV-UE4"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_03_0_Ado.txt",
+      "repo_name": "jg09lNupc1s"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_04_0_Ado.lrc",
+      "repo_name": "Dt0CYNAYfNY"
+    },
+    {
+      "id": "localdb_dynamic_4",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_04_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "Dt0CYNAYfNY"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_05_0_Ado.lrc",
+      "repo_name": "iDvuZ7mRiJ0"
+    },
+    {
+      "id": "localdb_6",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_06_0_Ado.txt",
+      "repo_name": "0dKm5MzDRv4"
+    },
+    {
+      "id": "localdb_7",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_07_0_Ado.lrc",
+      "repo_name": "8vm3Tkv43jw"
+    },
+    {
+      "id": "localdb_dynamic_7",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_07_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "8vm3Tkv43jw"
+    },
+    {
+      "id": "localdb_8",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_08_0_Ado.txt",
+      "repo_name": "aGSmxr-dUq0"
+    },
+    {
+      "id": "localdb_9",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_09_0_Ado.lrc",
+      "repo_name": "0Z_YqhYHhpg"
+    },
+    {
+      "id": "localdb_dynamic_9",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_09_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "0Z_YqhYHhpg"
+    },
+    {
+      "id": "localdb_10",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_10_0_Ado.lrc",
+      "repo_name": "G1bWNX-jU0w"
+    },
+    {
+      "id": "localdb_dynamic_10",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_10_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "G1bWNX-jU0w"
+    },
+    {
+      "id": "localdb_11",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_11_0_Ado.lrc",
+      "repo_name": "l0WArCNh6G0"
+    },
+    {
+      "id": "localdb_dynamic_11",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_11_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "l0WArCNh6G0"
+    },
+    {
+      "id": "localdb_12",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_12_0_Ado.lrc",
+      "repo_name": "GORsp0gc2Nc"
+    },
+    {
+      "id": "localdb_dynamic_12",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_12_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "GORsp0gc2Nc"
+    },
+    {
+      "id": "localdb_13",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_13_0_Ado.lrc",
+      "repo_name": "0Y8e0LJf0i0"
+    },
+    {
+      "id": "localdb_14",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_14_0_Ado.lrc",
+      "repo_name": "RCfV2mIDVw0"
+    },
+    {
+      "id": "localdb_dynamic_14",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_14_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "RCfV2mIDVw0"
+    },
+    {
+      "id": "localdb_15",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_15_0_Ado.txt",
+      "repo_name": "Q9X0J_tLHwY"
+    },
+    {
+      "id": "localdb_16",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/localdb_16_0_Ado.txt",
+      "repo_name": "6c03FX-eWjg"
+    },
+    {
+      "id": "localdb_17",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_17_0_Ado.lrc",
+      "repo_name": "KBXoX8p0mV4"
+    },
+    {
+      "id": "localdb_18",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_18_0_Ado.lrc",
+      "repo_name": "r8XOmBIaRx0"
+    },
+    {
+      "id": "localdb_dynamic_18",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_18_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "r8XOmBIaRx0"
+    },
+    {
+      "id": "localdb_19",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_19_0_Ado.lrc",
+      "repo_name": "BFVn0ZQwGpk"
+    },
+    {
+      "id": "localdb_dynamic_19",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_19_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "BFVn0ZQwGpk"
+    },
+    {
+      "id": "localdb_20",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_20_0_Ado.lrc",
+      "repo_name": "gD1hk0LPJQU"
     }
   ]
 }
