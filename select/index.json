@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "0",
   "base_artist": "Ado",
-  "createdAt": "2026-03-18T21:11:04.335261Z",
+  "createdAt": "2026-03-20T13:54:04.767653Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,7 +155,7 @@
       "artist": "Ado",
       "has_synced": true,
       "path": "select/localdb_01_0_Ado.lrc",
-      "repo_name": "x1UsJ2Znjk0"
+      "repo_name": "8vm3Tkv43jw"
     },
     {
       "id": "localdb_dynamic_1",
@@ -165,7 +165,7 @@
       "has_synced": true,
       "path": "select/localdb_01_0_Ado.dynamic.lrc",
       "kind": "dynamic",
-      "repo_name": "x1UsJ2Znjk0"
+      "repo_name": "8vm3Tkv43jw"
     },
     {
       "id": "localdb_2",
@@ -174,35 +174,35 @@
       "artist": "Ado",
       "has_synced": true,
       "path": "select/localdb_02_0_Ado.lrc",
-      "repo_name": "0tmJOrV-UE4"
+      "repo_name": "x1UsJ2Znjk0"
+    },
+    {
+      "id": "localdb_dynamic_2",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_02_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "x1UsJ2Znjk0"
     },
     {
       "id": "localdb_3",
       "source": "localdb",
       "title": "0",
       "artist": "Ado",
-      "has_synced": false,
-      "path": "select/localdb_03_0_Ado.txt",
-      "repo_name": "jg09lNupc1s"
+      "has_synced": true,
+      "path": "select/localdb_03_0_Ado.lrc",
+      "repo_name": "0tmJOrV-UE4"
     },
     {
       "id": "localdb_4",
       "source": "localdb",
       "title": "0",
       "artist": "Ado",
-      "has_synced": true,
-      "path": "select/localdb_04_0_Ado.lrc",
-      "repo_name": "Dt0CYNAYfNY"
-    },
-    {
-      "id": "localdb_dynamic_4",
-      "source": "localdb",
-      "title": "0",
-      "artist": "Ado",
-      "has_synced": true,
-      "path": "select/localdb_04_0_Ado.dynamic.lrc",
-      "kind": "dynamic",
-      "repo_name": "Dt0CYNAYfNY"
+      "has_synced": false,
+      "path": "select/localdb_04_0_Ado.txt",
+      "repo_name": "jg09lNupc1s"
     },
     {
       "id": "localdb_5",
@@ -211,35 +211,35 @@
       "artist": "Ado",
       "has_synced": true,
       "path": "select/localdb_05_0_Ado.lrc",
-      "repo_name": "iDvuZ7mRiJ0"
+      "repo_name": "Dt0CYNAYfNY"
+    },
+    {
+      "id": "localdb_dynamic_5",
+      "source": "localdb",
+      "title": "0",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_05_0_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "Dt0CYNAYfNY"
     },
     {
       "id": "localdb_6",
       "source": "localdb",
       "title": "0",
       "artist": "Ado",
-      "has_synced": false,
-      "path": "select/localdb_06_0_Ado.txt",
-      "repo_name": "0dKm5MzDRv4"
+      "has_synced": true,
+      "path": "select/localdb_06_0_Ado.lrc",
+      "repo_name": "iDvuZ7mRiJ0"
     },
     {
       "id": "localdb_7",
       "source": "localdb",
       "title": "0",
       "artist": "Ado",
-      "has_synced": true,
-      "path": "select/localdb_07_0_Ado.lrc",
-      "repo_name": "8vm3Tkv43jw"
-    },
-    {
-      "id": "localdb_dynamic_7",
-      "source": "localdb",
-      "title": "0",
-      "artist": "Ado",
-      "has_synced": true,
-      "path": "select/localdb_07_0_Ado.dynamic.lrc",
-      "kind": "dynamic",
-      "repo_name": "8vm3Tkv43jw"
+      "has_synced": false,
+      "path": "select/localdb_07_0_Ado.txt",
+      "repo_name": "0dKm5MzDRv4"
     },
     {
       "id": "localdb_8",
